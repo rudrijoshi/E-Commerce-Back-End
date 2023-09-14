@@ -1,4 +1,4 @@
-# 13 Object-Relational Mapping (ORM): E-Commerce Back End
+# E-Commerce Back End
 
 ## Description
 E-Commerce Back End Project is used to build a back end for the e-commerce website that uses the latest technologies to manage a company's employee database.
@@ -32,8 +32,8 @@ If you followed tutorials, include links to those here as well: https://www.w3sc
 
 ## Links
 
--URL link for the deployed Github application: https://rudrijoshi.github.io/E-Commerce-Back-End-Project/
+-URL link for the deployed Github application: https://rudrijoshi.github.io/E-Commerce-Back-End/
 
--URL link for the Github repository: https://github.com/rudrijoshi/E-Commerce-Back-End-Project/
+-URL link for the Github repository: https://github.com/rudrijoshi/E-Commerce-Back-End/
 
 -URL link for the screencastify: https://watch.screencastify.com/v/jxHVXMxv0CwcDTvU0E72
